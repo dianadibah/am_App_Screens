@@ -1,0 +1,9 @@
+{
+"setting" : "Setting",
+"emailValidte":"Enter a valid email address",
+  "passwordLength":"Password must be at least 8 characters long.",
+  "digitmissing":"• There should be at least a number.",
+  "isEmptyFeild":"The field is empty! Please enter a value..",
+  "isBiggerThanUsername":"Username characters cannot be greater than ",
+  "isSmallerThanUsername":"Username characters cannot be smaller than "
+}
